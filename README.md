@@ -241,6 +241,14 @@ The project documentation is available below:
 
 ---
 
+## 💻 Power BI Dashboard
+
+📥 **Download the Power BI Dashboard**
+
+[AI Repository Analytics Dashboard.pbix](Power%20BI%20Dashboard/AI%20Repository%20Analytics%20Dashboard.pbix)
+
+---
+
 # 📊 Dataset
 
 The dashboard analyses a curated dataset of AI open-source repositories containing information such as:
