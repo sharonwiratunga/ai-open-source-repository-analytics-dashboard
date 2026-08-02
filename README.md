@@ -7,7 +7,15 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![MIT License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
+
 An interactive **Power BI dashboard** that explores AI open-source repositories using **Power Query, DAX, Deneb (Vega-Lite)** and modern data visualisation techniques.
+
+---
+
+## 📸 Dashboard Preview
+
+01 Executive Dashboard.png
+![Executive Dashboard](Images/01%20Executive%20Dashboard.png)
 
 ---
 
@@ -225,16 +233,44 @@ ai-open-source-repository-analytics-dashboard
 
 # 📄 Documentation
 
-The following supporting documents are included in this repository:
+The project documentation is available below:
 
-- 📘 AI Repository Analytics Dashboard Report.pdf
-- 📄 Dashboard Pages.pdf
+- 📘 [AI Repository Analytics Dashboard Report](Documentation/AI%20Repository%20Analytics%20Dashboard%20Report.pdf)
+
+- 📄 [AI Repository Analytics Dashboard Pages](Documentation/Dashboard%20Pages.pdf)
 
 ---
 
 # 📊 Dataset
 
-The dashboard is built using an AI open-source repositories dataset containing repository popularity, technology stack, community engagement and repository health metrics.
+The dashboard analyses a curated dataset of AI open-source repositories containing information such as:
+
+- Repository metadata
+- GitHub stars
+- Forks
+- Watchers
+- Contributors
+- Monthly downloads
+- Repository health score
+- Primary programming language
+- AI framework
+- Package manager
+- License type
+- Repository age
+- Community engagement metrics
+
+---
+
+# 🚀 How to Use
+
+1. Download the **Power BI (.pbix)** file from the **Power BI Dashboard** folder.
+2. Open the file using **Microsoft Power BI Desktop**.
+3. Explore the four interactive dashboard pages.
+4. Use the slicers to filter by:
+   - Category
+   - Organisation
+5. Navigate between pages using the sidebar buttons.
+6. Hover over visuals to view additional insights and tooltips.
 
 ---
 
@@ -253,23 +289,31 @@ Potential enhancements include:
 
 # 👩‍💻 About the Author
 
-**Sharon Wiratunga**
+## Sharon Wiratunga
 
 Business Intelligence | Power BI | Data Analytics | Financial Analytics
 
-Passionate about transforming complex data into meaningful business insights through interactive dashboards and modern data visualisation.
+I enjoy transforming complex datasets into meaningful business insights through interactive dashboards, modern data visualisation, and data-driven decision-making.
+
+This project demonstrates practical experience in:
+
+- Power BI
+- Power Query
+- DAX
+- Deneb (Vega-Lite)
+- Data Modelling
+- Business Intelligence
+- Dashboard Design
 
 ---
 
 # 📬 Connect With Me
 
-- **GitHub:** https://github.com/sharonwiratunga
-- **LinkedIn:** https://www.linkedin.com/in/sharon-wiratunga
+- 🌐 GitHub: https://github.com/sharonwiratunga
+- 💼 LinkedIn: https://www.linkedin.com/in/sharon-wiratunga
 
 ---
 
----
+⭐ **Thank you for visiting this project!**
 
-⭐ **If you found this project useful, please consider giving it a star.**
-
-Thank you for visiting my portfolio!
+If you found this dashboard useful or interesting, please consider giving this repository a ⭐ on GitHub.
